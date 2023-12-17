@@ -59,6 +59,12 @@ fill: #548235;
 .gc_5{
 fill: #70AD47;
 }
+.gd_5{
+fill: none;
+stroke: #0563C1;
+stroke-width: 0.909;
+stroke-miterlimit: 10;
+}
 ]]></style>
 </defs>
 <g clip-path="url(#c0_5)">
@@ -89,4 +95,5 @@ fill: #70AD47;
 <image clip-path="url(#c0_5)" preserveAspectRatio="none" x="69" y="231" width="49" height="49" xlink:href="img/1.png"/>
 <path fill-rule="evenodd" d="M559,588.8H356.7V552.6H761.3v36.2H559Z" class="gb_5"/>
 <path fill-rule="evenodd" d="M981.9,588.8H779.7V552.6h404.5v36.2H981.9Z" class="gc_5"/>
+<path d="M99,796.1h40.6" class="gd_5"/>
 </svg>

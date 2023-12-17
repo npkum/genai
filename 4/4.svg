@@ -47,6 +47,12 @@ fill: #A6A6A6;
 .g9_4{
 fill: #CFD5EA;
 }
+.ga_4{
+fill: none;
+stroke: #0563C1;
+stroke-width: 0.909;
+stroke-miterlimit: 10;
+}
 ]]></style>
 </defs>
 <g clip-path="url(#c0_4)">
@@ -94,12 +100,13 @@ fill: #CFD5EA;
 <path fill-rule="evenodd" d="M144.4,140.4V471.2L96.8,504.8L49.5,471.2V140.4h94.9Z" class="g8_4"/>
 <image clip-path="url(#c0_4)" preserveAspectRatio="none" x="69" y="222" width="49" height="50" xlink:href="img/1.png"/>
 <path d="M151.4,255.2H1398.1" class="g4_4"/>
-<path d="M151.4,348.8H1398.1" class="g5_4"/>
-<path d="M152.1,254.5v96.4m152,-96.4v96.4M576.7,254.5v96.4m820.7,-96.4v96.4" class="g4_4"/>
-<path fill-rule="evenodd" d="M150.8,367.6H302.9v79.9H150.8V367.6Z" class="g9_4"/>
-<path fill-rule="evenodd" d="M302.9,367.6H575.5v79.9H302.9V367.6Z" class="g9_4"/>
-<path fill-rule="evenodd" d="M575.5,367.6h820.7v79.9H575.5V367.6Z" class="g9_4"/>
+<path d="M151.4,365.2H1398.1" class="g5_4"/>
+<path d="M152.1,254.5V367.2m152,-112.7V367.2M576.7,254.5V367.2M1397.4,254.5V367.2" class="g4_4"/>
+<path fill-rule="evenodd" d="M150.8,367.6H302.9v93.5H150.8V367.6Z" class="g9_4"/>
+<path fill-rule="evenodd" d="M302.9,367.6H575.5v93.5H302.9V367.6Z" class="g9_4"/>
+<path fill-rule="evenodd" d="M575.5,367.6h820.7v93.5H575.5V367.6Z" class="g9_4"/>
 <path d="M150.1,367.6H1396.8" class="g4_4"/>
-<path d="M150.1,447.5H1396.8" class="g5_4"/>
-<path d="M150.8,366.9v82.6M302.9,366.9v82.6M575.5,366.9v82.6m820.7,-82.6v82.6" class="g4_4"/>
+<path d="M150.1,461.1H1396.8" class="g5_4"/>
+<path d="M150.8,366.9v96.3M302.9,366.9v96.3M575.5,366.9v96.3m820.7,-96.3v96.3" class="g4_4"/>
+<path d="M99,796.1h40.6" class="ga_4"/>
 </svg>

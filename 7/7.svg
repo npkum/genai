@@ -47,6 +47,12 @@ stroke: #325490;
 stroke-width: 1.515;
 stroke-miterlimit: 3;
 }
+.ga_7{
+fill: none;
+stroke: #0563C1;
+stroke-width: 0.909;
+stroke-miterlimit: 10;
+}
 ]]></style>
 </defs>
 <g clip-path="url(#c0_7)">
@@ -128,4 +134,5 @@ stroke-miterlimit: 3;
 <path d="M206.6,517.9h44.1v-3.1l6.1,6.1l-6.1,6.2V524H206.6v-6.1Z" class="g9_7"/>
 <path fill-rule="evenodd" d="M198.1,601.4V749.8H201l-5.9,5.8l-5.8,-5.8h2.9V601.4h5.9Z" class="g8_7"/>
 <path d="M198.1,601.4V749.8H201l-5.9,5.8l-5.8,-5.8h2.9V601.4h5.9Z" class="g9_7"/>
+<path d="M99,796.1h40.6" class="ga_7"/>
 </svg>

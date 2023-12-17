@@ -8,10 +8,17 @@
 .g0_1{
 fill: #FFF;
 }
+.g1_1{
+fill: none;
+stroke: #0563C1;
+stroke-width: 0.909;
+stroke-miterlimit: 10;
+}
 ]]></style>
 </defs>
 <g clip-path="url(#c0_1)">
 <path fill-rule="evenodd" d="M0,0H1466.6V825H0V0Z" class="g0_1"/>
 <path fill-rule="evenodd" d="M0,0H1466.7V825H0V0Z" class="g0_1"/>
 </g>
+<path d="M99,796.1h40.6" class="g1_1"/>
 </svg>
