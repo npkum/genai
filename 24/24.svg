@@ -104,6 +104,12 @@ stroke-miterlimit: 10;
 .gl_24{
 fill: #C5E0B4;
 }
+.gm_24{
+fill: none;
+stroke: #0563C1;
+stroke-width: 0.909;
+stroke-miterlimit: 10;
+}
 ]]></style>
 </defs>
 <g clip-path="url(#c0_24)">
@@ -182,4 +188,5 @@ fill: #C5E0B4;
 <path d="M1275.1,641.2h8.9" class="ga_24"/>
 <path fill-rule="evenodd" d="M1292.5,641.3l-9.2,4.5l3.7,-4.6l-3.6,-4.5l9.1,4.6Z" class="gb_24"/>
 <path d="M1264.8,619l10.9,22.2" class="gd_24"/>
+<path d="M99,796.1h40.6" class="gm_24"/>
 </svg>

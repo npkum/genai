@@ -38,6 +38,12 @@ stroke-miterlimit: 1;
 .g6_21{
 fill: #C39BE1;
 }
+.g7_21{
+fill: none;
+stroke: #0563C1;
+stroke-width: 0.909;
+stroke-miterlimit: 10;
+}
 ]]></style>
 </defs>
 <g clip-path="url(#c0_21)">
@@ -69,4 +75,5 @@ fill: #C39BE1;
 <path d="M246,475.3v12.2m0,3.8v12.2m0,3.8v12m0,14.1v12.2m0,3.8v12.2m0,3.9v11.9" class="g3_21"/>
 <path fill-rule="evenodd" d="M1170.4,552.1c0,16.5,-13.2,29.9,-29.6,29.9c-16.3,0,-29.5,-13.4,-29.5,-29.9c0,-16.5,13.2,-29.9,29.5,-29.9c16.4,0,29.6,13.4,29.6,29.9Z" class="g6_21"/>
 <path d="M757.4,601.4H111.9V413.1h1291V601.4H757.4Z" class="g4_21"/>
+<path d="M99,796.1h40.6" class="g7_21"/>
 </svg>

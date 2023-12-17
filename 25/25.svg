@@ -92,6 +92,12 @@ fill: #7030A0;
 .gi_25{
 fill: #F8CBAD;
 }
+.gj_25{
+fill: none;
+stroke: #0563C1;
+stroke-width: 0.909;
+stroke-miterlimit: 10;
+}
 ]]></style>
 </defs>
 <g clip-path="url(#c0_25)">
@@ -159,4 +165,5 @@ fill: #F8CBAD;
 <image preserveAspectRatio="none" x="1281" y="597" width="45" height="45" xlink:href="img/3.png"/>
 </g>
 <path d="M1304.1,645.8v3.1m.1,2.3v3.1m0,2.4v3.1m0,2.3l.1,3.1m0,2.4v3.1m0,2.3l.1,3.2m0,2.3v.9" class="ge_25"/>
+<path d="M99,796.1h40.6" class="gj_25"/>
 </svg>

@@ -35,6 +35,12 @@ fill: #C5E0B4;
 .g6_22{
 fill: #F8CBAD;
 }
+.g7_22{
+fill: none;
+stroke: #0563C1;
+stroke-width: 0.909;
+stroke-miterlimit: 10;
+}
 ]]></style>
 </defs>
 <g clip-path="url(#c0_22)">
@@ -69,4 +75,5 @@ fill: #F8CBAD;
 <path d="M757,731.4H111.5V618h1291V731.4H757Z" class="g3_22"/>
 <path d="M256.8,622.1v12.2m0,3.8v12.2m0,3.9v12.2m0,3.8v12.2m0,3.8v12.3m0,3.8v12.2" class="g2_22"/>
 <image clip-path="url(#c0_22)" preserveAspectRatio="none" x="1122" y="648" width="274" height="25" xlink:href="img/7.jpg"/>
+<path d="M99,796.1h40.6" class="g7_22"/>
 </svg>

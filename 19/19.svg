@@ -77,6 +77,12 @@ stroke: #A6A6A6;
 stroke-width: 0.779;
 stroke-miterlimit: 10;
 }
+.gf_19{
+fill: none;
+stroke: #0563C1;
+stroke-width: 0.909;
+stroke-miterlimit: 10;
+}
 ]]></style>
 </defs>
 <g clip-path="url(#c0_19)">
@@ -130,4 +136,5 @@ stroke-miterlimit: 10;
 <path d="M244.3,679.3v12.2m0,3.8v12.3m0,3.8v12.2m0,3.8v12.2" class="g2_19"/>
 <path d="M757.4,758.8H111.9V587.3h1291V758.8H757.4Z" class="g3_19"/>
 <path fill-rule="evenodd" d="M1183.3,37L1151.6,19.8c-1.9,-1,-.9,-3.3,1.6,-3.3h218.9c.5,0,1,0,1.5,.3L1411.3,37c1.4,.7,1.4,2.2,0,2.9l-37.7,20.8c-.5,.2,-1,.4,-1.5,.4H1153c-2.4,0,-3.5,-2.3,-1.5,-3.4l31.8,-17.8c1.4,-.7,1.4,-2.2,0,-2.9Z" class="gb_19"/>
+<path d="M99,796.1h40.6" class="gf_19"/>
 </svg>

@@ -68,6 +68,12 @@ stroke: #548235;
 stroke-width: 0.779;
 stroke-miterlimit: 3;
 }
+.gd_28{
+fill: none;
+stroke: #0563C1;
+stroke-width: 0.909;
+stroke-miterlimit: 10;
+}
 ]]></style>
 </defs>
 <g clip-path="url(#c0_28)">
@@ -90,4 +96,5 @@ stroke-miterlimit: 3;
 <path d="M1315.4,552.2h-75.9V457.8h151.7v94.4h-75.8Z" class="gc_28"/>
 <path d="M1245.4,475.1h73.5" class="g8_28"/>
 <path d="M207.5,562.5v12.2m0,3.8v12.3m0,3.8v12.2m0,3.8v12.2m0,3.9v12.2" class="g4_28"/>
+<path d="M99,796.1h40.6" class="gd_28"/>
 </svg>
